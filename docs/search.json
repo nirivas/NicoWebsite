@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Nico",
+    "title": "Nico Rivas",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Your browser does not support the video tag. \n\n\n\n\ntitle: “Nico Rivas”\n\n\n\nThis is a Quarto website!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n::: {.cell}\n1 + 1\n::: {.cell-output .cell-output-stdout}\n[1] 2\n::: :::"
   },
   {
     "objectID": "about.html",

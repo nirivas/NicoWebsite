@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "NicoWebsite"
+  title: "Nico Rivas"
   navbar:
     left:
       - href: index.qmd
@@ -17,4 +17,3 @@ format:
     toc: true
 
 editor: visual
-
